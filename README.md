@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Olá, eu sou João Victor
 
-<!--
-**joaovictorpadilha/joaovictorpadilha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Python em formação  
+📊 Focado em Automação, Dados e BI  
+🚀 Em transição de carreira para tecnologia  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tecnologias que estou estudando:
+- Python
+- Pandas
+- Power BI
+- SQL (em aprendizado)
+
+---
+
+## 🔧 O que estou construindo:
+- Automação de tarefas com Python
+- Análise de dados
+- Dashboards com Power BI
+
+---
+
+## 📫 Contato:
+- LinkedIn: www.linkedin.com/in/padilhajoaovictor/
+
+---
+
+⭐ Em constante evolução. Construindo projetos todos os dias.
